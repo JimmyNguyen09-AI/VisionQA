@@ -10,7 +10,7 @@ Run `docker run d`
 
 ## Demo
 <p align="center">
-  <img src="output.gif" width=700><br/>
+  <img src="output.gif" width=800><br/>
   <i>Demo</i>
 </p>
 
