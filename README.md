@@ -1,7 +1,8 @@
 <p align="center">
  <h1 align="center">Vision QA </h1>
 </p>
-Dowload yolo to your device: https://github.com/ultralytics/yolov5
+A mini project combining two major pillars of AI: Computer Vision and NLP (LLM Agentic).
+It may not have the highest real-world application yet, but I think it’s still super fun and fascinating, right? 😎🤖
 
 ## How to run
 Open `Dockerfile`, insert your openAI api key in\
