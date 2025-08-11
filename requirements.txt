@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+torchaudio
+transformers
+pillow
+python-dotenv
+pydantic-ai
+ultralytics
+opencv-python
